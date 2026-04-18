@@ -93,6 +93,16 @@ Development of a multi-country digital platform supporting **Gender-Based Violen
 - Enhanced visibility for decision-makers via dashboards and structured reporting
 
 **Evidence**
+
+**Sample App**
+![Power BI Dashboard](./images/App2.PNG)
+**Sample Dashboard**
+![Power BI Dashboard](./images/Dashboard-1.PNG)
+**Sample Dashboard**
+![Power BI Dashboard](./images/dashboard2.PNG)
+**Sample Dashboard**
+![Power BI Dashboard](./images/dashboard3.PNG)
+**Sample Dashboard**
 ![Power BI Dashboard](./images/Dashboard4.PNG)
 
 ---
@@ -150,7 +160,11 @@ End-to-end development of a digital solution for managing agricultural operation
 - Demonstrated ownership of the full product lifecycle
 
 **Evidence**
-- Screenshots and system outputs *(to be added, if shareable)*
+
+**Sample App**
+![Power BI Dashboard](./images/App1.PNG)
+**Sample App**
+![Power BI Dashboard](./images/App3.PNG)
 
 ---
 
@@ -167,35 +181,13 @@ Bulawayo Polytechnic College
 - Microsoft Certified: **Power Platform Fundamentals** (2022)
 - Microsoft Certified: **Azure Data Fundamentals** (2022)
 - Microsoft Certified: **Azure Fundamentals** (2022)
-
----
-
-## Screenshots / Evidence
-
-Create a folder called `assets/` and place screenshots there. Suggested structure:
-
-- `assets/commonwealth-gbv/`
-  - `powerapps-canvas-*.png`
-  - `powerapps-modeldriven-*.png`
-  - `powerbi-dashboard-*.png`
-  - `sharepoint-structure-*.png`
-- `assets/sadc-hiv/`
-  - `redacted-*.png` *(only if approved/allowed)*
-- `assets/smart-crop/`
-  - `app-*.png`
-  - `reports-*.png`
-
-Then embed screenshots like:
-
-```markdown
-![Power BI Dashboard](assets/commonwealth-gbv/powerbi-dashboard-01.png)
-```
-
+  
 ---
 
 ## Contact
 
 - **Name:** Wisdom Hove  
-- **GitHub:** @HoveWisdom  
+- **GitHub:** @HoveWisdom
+- **LinkedIn:**(https://www.linkedin.com/in/wisdom-hove-a7438655/)  
 
 > If you want, paste your email + LinkedIn URL and I’ll add a clean “Contact” section and a short “About” intro suitable for a GitHub profile.
