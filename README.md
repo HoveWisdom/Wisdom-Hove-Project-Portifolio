@@ -93,13 +93,13 @@ Development of a multi-country digital platform supporting **Gender-Based Violen
 - Enhanced visibility for decision-makers via dashboards and structured reporting
 
 **Evidence**
-![Power BI Dashboard](../images/Dashboard4.PNG)
+![Power BI Dashboard](./images/Dashboard4.PNG)
 
 ---
 
 ### 2) SADC HIV Monitoring & Evaluation Data Collection System
 
-**Role:** Software Developer / Power Platform Contributor
+**Role:** Power Platform Developer
 
 **Overview**  
 Regional system supporting HIV monitoring and evaluation across SADC member states.
