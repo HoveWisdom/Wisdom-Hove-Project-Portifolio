@@ -1,4 +1,4 @@
-# Wisdom Hove — Project Portfolio
+8# Wisdom Hove — Project Portfolio
 
 Microsoft Certified Azure Developer Associate with 6+ years of experience delivering enterprise-grade solutions using **Microsoft Power Platform**, **Dynamics 365**, and **Azure** services. Proven track record building scalable applications for international programs, including **Commonwealth** and **SADC** initiatives.
 
@@ -202,4 +202,4 @@ Bulawayo Polytechnic College
 - **GitHub:** @HoveWisdom
 - **LinkedIn:**(https://www.linkedin.com/in/wisdom-hove-a7438655/)  
 
-> If you want, paste your email + LinkedIn URL and I’ll add a clean “Contact” section and a short “About” intro suitable for a GitHub profile.
+
