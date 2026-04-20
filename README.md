@@ -177,6 +177,18 @@ End-to-end development of a digital solution for managing agricultural operation
 ![Power BI Dashboard](./images/App1.PNG)
 **Sample App**
 ![Power BI Dashboard](./images/App3.PNG)
+**Sample App**
+![Power App](./images/App1.b.PNG)
+**Sample App**
+![Power App](./images/App2.1.PNG)
+**Sample App**
+![Power App](./images/App3.1.PNG)
+**Sample App**
+![Power BI Dashboard](./images/Appcs2.PNG)
+**Sample Workflow**
+![Workflow](./images/Flowsc1.PNG)
+**Sample Workflow**
+![Workflow](./images/Flowsc2.PNG)
 
 ---
 
